@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Commands/FBFindElementCommands.m \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Commands/FBFindElementCommands.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandHandler.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandStatus.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBHTTPStatusCodes.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBResponsePayload.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBRoute.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/FBAlert.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBConfiguration.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/AccessibilityUtilities/AXSettings.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/UIKitCore/UIKeyboardImpl.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/TextInput/TIPreferencesController.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBElementCache.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBExceptions.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBMacros.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBRouteRequest.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBSession.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/XCTestPrivateSymbols.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIApplication+FBHelpers.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBClassChain.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBFind.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBIsVisible.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBXCElementSnapshotWrapper.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBXCElementSnapshot.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/CDStructures.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBElement.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBUID.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBUtilities.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBWebDriverAttributes.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCUIElement.h

@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBXCTestDaemonsProxy.m \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBXCTestDaemonsProxy.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCSynthesizedEventRecord.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBConfiguration.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/AccessibilityUtilities/AXSettings.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/UIKitCore/UIKeyboardImpl.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/TextInput/TIPreferencesController.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBErrorBuilder.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBExceptions.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBRunLoopSpinner.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBScreenRecordingPromise.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBScreenRecordingRequest.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCTestDriver.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/CDStructures.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCDebugLogDelegate-Protocol.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCTestDriverInterface-Protocol.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_TestsInterface-Protocol.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_IDEInterface-Protocol.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCTestManager_ManagerInterface-Protocol.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCTRunnerDaemonSession.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCEventGenerator.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCUIApplication.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCUIDevice.h

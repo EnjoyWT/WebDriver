@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBWebDriverAttributes.m \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBWebDriverAttributes.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBElement.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCUIElement.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBXCElementSnapshotWrapper.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBXCElementSnapshot.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/CDStructures.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBElementTypeTransformer.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBMacros.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBAccessibility.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBIsVisible.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBUID.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBUtilities.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBElementUtils.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/XCTestPrivateSymbols.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/XCUIHitPointResult.h

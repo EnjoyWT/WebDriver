@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Commands/FBDebugCommands.m \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Commands/FBDebugCommands.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandHandler.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandStatus.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBHTTPStatusCodes.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBResponsePayload.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBRoute.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBRouteRequest.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBSession.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBXMLGenerationOptions.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIApplication+FBHelpers.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIElement+FBUtilities.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBElement.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBXCElementSnapshot.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/XCTest/CDStructures.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBXPath.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS17.5.sdk/usr/include/libxml2/libxml/module.modulemap

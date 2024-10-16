@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBWebServer.m \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBWebServer.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Vendor/RoutingHTTPServer/RoutingConnection.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Vendor/CocoaHTTPServer/HTTPConnection.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Vendor/RoutingHTTPServer/RoutingHTTPServer.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Vendor/CocoaHTTPServer/HTTPServer.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Vendor/CocoaHTTPServer/HTTPResponse.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Vendor/RoutingHTTPServer/RouteResponse.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Vendor/RoutingHTTPServer/RouteRequest.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Vendor/CocoaAsyncSocket/GCDAsyncSocket.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandHandler.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBCommandStatus.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBHTTPStatusCodes.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBResponsePayload.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBRoute.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBErrorBuilder.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBExceptionHandler.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBMjpegServer.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBTCPSocket.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBRouteRequest.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBRuntimeUtils.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Routing/FBSession.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Commands/FBUnknownCommands.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBConfiguration.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/AccessibilityUtilities/AXSettings.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/UIKitCore/UIKeyboardImpl.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/PrivateHeaders/TextInput/TIPreferencesController.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Utilities/FBLogger.h \
+  /Users/sh/Desktop/work/TempSe/appium-webdriveragent/WebDriverAgentLib/Categories/XCUIDevice+FBHelpers.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap
