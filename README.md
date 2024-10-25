@@ -1,2 +1,0 @@
-# WebDriver
-Location test
